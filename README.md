@@ -1,5 +1,5 @@
 # Model
-Current wersion U-net
+Current version U-net
 # Model weights
 [weight](https://huggingface.co/DeZtrOiD/ML_colorizer/blob/main/ML/weights/5_128_2048_checkpoint.weights.h5)
 
